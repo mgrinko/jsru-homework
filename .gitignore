@@ -24,7 +24,7 @@ node_modules/
 .idea/libraries
 
 # Mongo Explorer plugin:
-.idea/mongoSettings.xml
+.idea/mongoSettings.xmlgit
 
 ## File-based project format:
 *.iws
